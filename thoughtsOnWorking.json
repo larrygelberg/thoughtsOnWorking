@@ -1,7 +1,7 @@
 {
     "title" : "Things I don't miss about work",
 	"version" : "1.0.0",
-    "days_since_retirement": 72,
+    "daysSinceRetirement": 72,
     "commuting" : [
         "waste of time",
         "waste of resources",
@@ -14,87 +14,52 @@
         "agile sucking all the joy out of programming"
     ],
     "reviews" : [
-        "reviewing other people",
-        { "self-assessments" : [
+        "peer reviews are the worst",
+        { "selfAssessments" : [
             "just kill me now",
             "why do you make me do this every fucking year?",
             "of course I'm always going to give myself exceptional ratings, I'd be stupid not to"
         ]},
         "stop with the bullshit and just tell me how much of a raise I'm getting (or not)",
         "tell me the percentage and not the dollar amount and the percentage better be more than inflation",
-        { "performance_metrics" : [
+        { "performanceMetrics" : [
             "KPIs",
             "MBOs",
             "V2MOMs"
         ]}
     ],
-    "mental_health" : [
+    "mentalHealth" : [
         "impostor syndrome",
         "burnout",
         "pretending to care",
-        "companies who claim they care about the mental health of their employees when it's actually just lip-service to make themselves feel better about abusing their staff"
+        "companies who claim they care about the mental health of their employees when it's actually just lip-service to make themselves feel better about abusing them mercilessly"
     ],
-    "annoying_corporate_speak" : [
+    "annoyingCorporateSpeak" : [
         "let's drill down into that",
         "let's double-click on that",
         "turning an aircraft carrier",
-        { "Salesforce_specific_corporate_speak" : [
+        { "SalesforceSpecificCorporateSpeak" : [
             "Ohana",
             "Employee Success",
-            "We prefer the term 'Drinking our own champagne!'"
-        ]}    
-    ]
-
-}{
-	"title": "Things I don't miss about work",
-	"days_since_retirement": 72,
-	"commuting": [
-		"waste of time",
-		"waste of resources",
-		"hate fucking sitting in fucking traffic"
+            "We prefer the term 'Drinking our own champagne!'",
+			"well, it's a journey (meaning 'We don't effing know')"
+        ]}  
+    ],
+	"mandatoryFunEvents" : [
+		"The 'mandatory' part is rarely explicit, but it's certainly implied",
+		"'Fun' needs to always be in air quotes",
+		"usually not in a place you would voluntarily go yourself",
+		"I fucking hate fucking Las Vegas",
+		"company photographers on hand to capture all the 'fun' so it can be plastered on the office walls",
+		"lots of free booze but avoid like it's plutonium because you don't want to get plastered and become momentarily honest",
+		"awkward small talk",
+		"awkward small talk with senior management trying to 'get real' with the minions",
+		"colleagues desperately trying to suck up to the senior management",
+		"never get on a boat - you're trapped for the next 2-5 hours with no chance for escape"
 	],
-	"agile": [
-		"8AM scrums",
-		"8AM scrums that interfere with my workouts",
-		"it's really waterfall but we're calling it agile so we can make you do sprints",
-		"agile sucking all the joy out of programming"
-	],
-	"reviews": [
-		"reviewing other people",
-		{
-			"self-assessments": [
-				"just kill me now",
-				"why do you make me do this every fucking year?",
-				"of course I'm always going to give myself exceptional ratings, I'd be stupid not to"
-			]
-		},
-		"stop with the bullshit and just tell me how much of a raise I'm getting (or not)",
-		"tell me the percentage and not the dollar amount and the percentage better be more than inflation",
-		{
-			"performance_metrics": [
-				"KPIs",
-				"MBOs",
-				"V2MOMs"
-			]
-		}
-	],
-	"mental_health": [
-		"impostor syndrome",
-		"burnout",
-		"pretending to care",
-		"companies who claim they care about the mental health of their employees when it's actually just lip-service to make themselves feel better about abusing their staff"
-	],
-	"annoying_corporate_speak": [
-		"let's drill down into that",
-		"let's double-click on that",
-		"turning an aircraft carrier",
-		{
-			"Salesforce_specific_corporate_speak": [
-				"Ohana",
-				"Employee Success",
-				"We prefer the term 'Drinking our own champagne!'"
-			]
-		}
+	"interviewing" : [
+		"tell me about your problem areas",
+		"we can't ask you what you're currently earning, so tell us your 'salary expectations'",
+		"that one guy who just wants to shoot you down to assert his alpha chimp"
 	]
-
 }
