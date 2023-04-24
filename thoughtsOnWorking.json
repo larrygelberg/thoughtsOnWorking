@@ -1,7 +1,7 @@
 {
     "title" : "Things I don't miss about work",
-	"version" : "1.0.0",
-    "daysSinceRetirement": 72,
+	"version" : "1.0.1",
+    "daysSinceRetirement": 80,
     "commuting" : [
         "waste of time",
         "waste of resources",
@@ -31,17 +31,20 @@
     "mentalHealth" : [
         "impostor syndrome",
         "burnout",
-        "pretending to care",
-        "companies who claim they care about the mental health of their employees when it's actually just lip-service to make themselves feel better about abusing them mercilessly"
+        "having to pretend to care all the time",
+		"it's just a job",
+		"bosses don't really like it when you say 'work is the second most important thing in my life'",
+        "companies who claim they care about the mental health of their employees when it's actually just lip-service to make themselves feel better about themselves"
     ],
     "annoyingCorporateSpeak" : [
         "let's drill down into that",
         "let's double-click on that",
         "turning an aircraft carrier",
+		"right-sizing the corporatation",
         { "SalesforceSpecificCorporateSpeak" : [
             "Ohana",
             "Employee Success",
-            "We prefer the term 'Drinking our own champagne!'",
+            "We prefer the term 'Drinking our own champagne!' (vs. 'Eating our own dog food')",
 			"well, it's a journey (meaning 'We don't effing know')"
         ]}  
     ],
@@ -50,7 +53,7 @@
 		"'Fun' needs to always be in air quotes",
 		"usually not in a place you would voluntarily go yourself",
 		"I fucking hate fucking Las Vegas",
-		"company photographers on hand to capture all the 'fun' so it can be plastered on the office walls",
+		"company photographers on hand to capture all the 'fun' so it can be plastered all over the office walls",
 		"lots of free booze but avoid like it's plutonium because you don't want to get plastered and become momentarily honest",
 		"awkward small talk",
 		"awkward small talk with senior management trying to 'get real' with the minions",
@@ -59,7 +62,15 @@
 	],
 	"interviewing" : [
 		"tell me about your problem areas",
-		"we can't ask you what you're currently earning, so tell us your 'salary expectations'",
-		"that one guy who just wants to shoot you down to assert his alpha chimp"
+		"tell me something you're passionate about (well, it ain't work!)",
+		"we can't ask you what you're currently earning, so just tell us your 'salary expectations'",
+		"that one guy in the group interview who just wants to shoot you down to assert his alpha chimp",
+		"we're looking for a rock star",
+		"we're looking for a java/javascript/python/database NINJA!"
+	],
+	"generalAnnoyances" : [
+		"Yutzes on the West Coast that schedule meetings for 4:30PM in my timezone",
+		"'unlimited vacation' really means 'we don't want to carry all that reimbursable salary on our books from year-to-year",
+		"also 'unlimited' doesn't actually literally mean 'unlimited' - it often means 'less than you had before because if you take too much, you sure look like you're slacking compared to your peers'"
 	]
 }
