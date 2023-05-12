@@ -1,11 +1,11 @@
 {
     "title" : "Things I don't miss about work",
-	"version" : "1.0.1",
+	"version" : "1.0.2",
     "daysSinceRetirement": 80,
     "commuting" : [
         "waste of time",
         "waste of resources",
-        "hate fucking sitting in fucking traffic"
+        "I hate fucking sitting in fucking traffic"
     ],
     "agile" : [
         "8AM scrums",
@@ -25,6 +25,7 @@
         { "performanceMetrics" : [
             "KPIs",
             "MBOs",
+			"OKRs",
             "V2MOMs"
         ]}
     ],
@@ -39,8 +40,10 @@
     "annoyingCorporateSpeak" : [
         "let's drill down into that",
         "let's double-click on that",
-        "turning an aircraft carrier",
+        "turning an aircraft carrier (or any other war metaphor)",
+		"You go to war with the army you have, not the army you might want or wish to have at a later time.",
 		"right-sizing the corporatation",
+		"taking the ball into the endzone (or any other sports metaphor)",
         { "SalesforceSpecificCorporateSpeak" : [
             "Ohana",
             "Employee Success",
@@ -49,7 +52,7 @@
         ]}  
     ],
 	"mandatoryFunEvents" : [
-		"The 'mandatory' part is rarely explicit, but it's certainly implied",
+		"the 'mandatory' part is rarely explicit, but it's certainly implied",
 		"'Fun' needs to always be in air quotes",
 		"usually not in a place you would voluntarily go yourself",
 		"I fucking hate fucking Las Vegas",
@@ -69,8 +72,8 @@
 		"we're looking for a java/javascript/python/database NINJA!"
 	],
 	"generalAnnoyances" : [
-		"Yutzes on the West Coast that schedule meetings for 4:30PM in my timezone",
+		"yutzes on the West Coast that schedule meetings for 4:30PM in my timezone",
 		"'unlimited vacation' really means 'we don't want to carry all that reimbursable salary on our books from year-to-year",
-		"also 'unlimited' doesn't actually literally mean 'unlimited' - it often means 'less than you had before because if you take too much, you sure look like you're slacking compared to your peers'"
+		"also 'unlimited vacation' doesn't actually literally mean 'unlimited' - it often means 'less than you had before because if you take too much, you sure look like you're slacking compared to your peers'"
 	]
 }
