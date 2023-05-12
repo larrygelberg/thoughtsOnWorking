@@ -25,7 +25,7 @@
         { "performanceMetrics" : [
             "KPIs",
             "MBOs",
-			"OKRs",
+	    "OKRs",
             "V2MOMs"
         ]}
     ],
@@ -33,8 +33,8 @@
         "impostor syndrome",
         "burnout",
         "having to pretend to care all the time",
-		"it's just a job",
-		"bosses don't really like it when you say 'work is the second most important thing in my life'",
+	"it's just a job",
+	"bosses don't really like it when you say 'work is the second most important thing in my life'",
         "companies who claim they care about the mental health of their employees when it's actually just lip-service to make themselves feel better about themselves"
     ],
     "annoyingCorporateSpeak" : [
@@ -48,7 +48,7 @@
             "Ohana",
             "Employee Success",
             "We prefer the term 'Drinking our own champagne!' (vs. 'Eating our own dog food')",
-			"well, it's a journey (meaning 'We don't effing know')"
+	    "well, it's a journey (meaning 'We don't effing know')"
         ]}  
     ],
 	"mandatoryFunEvents" : [
